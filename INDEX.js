@@ -1,7 +1,7 @@
 function main() {
-    // prob1();
-    // prob2();
-    // chall1();
+    prob1();
+    prob2();
+    chall1();
     chall2();
 }
 main();
